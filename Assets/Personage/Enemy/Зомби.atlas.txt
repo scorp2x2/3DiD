@@ -1,0 +1,69 @@
+
+Зомби.png
+size: 449,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Голова
+  rotate: false
+  xy: 2, 165
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+НЛ
+  rotate: false
+  xy: 330, 93
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+НР
+  rotate: false
+  xy: 383, 165
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Открытые
+  rotate: false
+  xy: 286, 333
+  size: 151, 114
+  orig: 151, 114
+  offset: 0, 0
+  index: -1
+РукаВ
+  rotate: false
+  xy: 270, 58
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+Руказ
+  rotate: true
+  xy: 286, 157
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+Смерть
+  rotate: false
+  xy: 286, 229
+  size: 143, 102
+  orig: 143, 102
+  offset: 0, 0
+  index: -1
+Тело
+  rotate: false
+  xy: 2, 2
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+Урон
+  rotate: true
+  xy: 152, 24
+  size: 139, 116
+  orig: 139, 116
+  offset: 0, 0
+  index: -1

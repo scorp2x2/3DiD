@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShellPlayer
+  - ShellEnemy
+  - Obstacle
+  - Hole
+  - Wall
+  - Trap
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer
+    uniqueID: 842971717
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Inventory
+    uniqueID: 3382573519
+    locked: 0
+  - name: New Layer
+    uniqueID: 1438991615
+    locked: 0

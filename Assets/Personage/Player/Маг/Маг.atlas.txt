@@ -1,0 +1,76 @@
+
+Маг.png
+size: 583,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Голова
+  rotate: false
+  xy: 2, 212
+  size: 422, 369
+  orig: 422, 369
+  offset: 0, 0
+  index: -1
+НЛ
+  rotate: true
+  xy: 111, 9
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+НР
+  rotate: false
+  xy: 296, 35
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Открытые
+  rotate: false
+  xy: 193, 99
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+Посох
+  rotate: true
+  xy: 426, 152
+  size: 276, 142
+  orig: 276, 142
+  offset: 0, 0
+  index: -1
+РукаВ
+  rotate: true
+  xy: 2, 2
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+Руказ
+  rotate: true
+  xy: 193, 23
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+Смерть
+  rotate: false
+  xy: 383, 29
+  size: 177, 121
+  orig: 177, 121
+  offset: 0, 0
+  index: -1
+Тело
+  rotate: false
+  xy: 426, 430
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+Урон
+  rotate: false
+  xy: 2, 69
+  size: 189, 141
+  orig: 189, 141
+  offset: 0, 0
+  index: -1

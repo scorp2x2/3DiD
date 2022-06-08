@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87906d9c6fc5c4d48a279215cad349a7, type: 3}
+  m_Name: ObstacleForest
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: 2e223b50c5336844482628b70184f45c, type: 3}
+  prefab: {fileID: 6943735949334916183, guid: 3cb79ca6856cec14abbeb079d286ee22, type: 3}
+  Sprites:
+  - {fileID: 21300000, guid: fb0da3570c4616144847ff8d5fe5c87c, type: 3}
+  - {fileID: 21300000, guid: b5b6faaab9f0a294d8d83484c70ca1d1, type: 3}
+  - {fileID: 21300000, guid: e1c56698309136f40972d1cc1d8b67f6, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: fdb84ef29cbac0f409d47b422b66ec83, type: 2}
+  - {fileID: 11400000, guid: 369c59023938da64eaed3e5f3a888af0, type: 2}
+  - {fileID: 11400000, guid: 00835662368f8624fa003bfb7ddb407b, type: 2}

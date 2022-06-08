@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8918e1af0e28944be08750b5640424, type: 3}
+  m_Name: WallForest
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: 5e8fae782f2cd8549af87c6e1b2780ab, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: 66c239d071634414a9b5232dea3fe968, type: 2}
+  - {fileID: 11400000, guid: 1ae89e10e68d5454c9a246aa3f5d70ee, type: 2}
+  - {fileID: 11400000, guid: 921182b267d9bd048ac55f141803b994, type: 2}
+  - {fileID: 11400000, guid: d5b7a819fe99a1b4a9e6dfed8ac3a4b0, type: 2}
+  TilesCorner:
+  - {fileID: 11400000, guid: 6d558476e1c6bf34b83ecbe8414cdeb9, type: 2}
+  - {fileID: 11400000, guid: bb0323536a86393409b2674061eeee15, type: 2}
+  - {fileID: 11400000, guid: 631c813dc1a27694e8d83fa655ab6fc2, type: 2}
+  - {fileID: 11400000, guid: afdd4e448e04e6f4e900b6ceaf822290, type: 2}
+  Corner: {fileID: 21300000, guid: fb1d30e7c9e470447ac60c1623c8ac7c, type: 3}
+  prefab: {fileID: 6943735949334916183, guid: c6e877c506c1ac645885c6f5dbd918fe, type: 3}

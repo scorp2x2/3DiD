@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8918e1af0e28944be08750b5640424, type: 3}
+  m_Name: WallDungeon
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: e3021f8ec10f6e64f84f4d9b3092ca5b, type: 3}
+  Corner: {fileID: 21300000, guid: dcfce325d30187b43ba82d8f62b8ed81, type: 3}
+  prefab: {fileID: 6943735949334916183, guid: 3cb79ca6856cec14abbeb079d286ee22, type: 3}

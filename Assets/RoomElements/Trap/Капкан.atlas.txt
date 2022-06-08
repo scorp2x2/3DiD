@@ -1,0 +1,27 @@
+
+Капкан.png
+size: 924,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Движ
+  rotate: false
+  xy: 2, 4
+  size: 493, 478
+  orig: 493, 478
+  offset: 0, 0
+  index: -1
+Закр
+  rotate: true
+  xy: 2, 493
+  size: 429, 430
+  orig: 429, 430
+  offset: 0, 0
+  index: -1
+Откр
+  rotate: false
+  xy: 434, 484
+  size: 488, 438
+  orig: 488, 438
+  offset: 0, 0
+  index: -1

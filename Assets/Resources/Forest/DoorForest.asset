@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91aadb73537cb4d4baecac7bed699bd2, type: 3}
+  m_Name: DoorForest
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: f063aee10e1b774448a8a23da75112bf, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: e129184b4fd7e104b81a5baa608ada45, type: 2}
+  - {fileID: 11400000, guid: 6a47d73975f17664b8ca04206a73443b, type: 2}
+  - {fileID: 11400000, guid: 560e06d009e3d9345b38de09c977e272, type: 2}
+  - {fileID: 11400000, guid: 54c448a434339d04d91630b84a687284, type: 2}
+  prefab: {fileID: 6943735949334916183, guid: b8dec01a675507e4982f997c2fc63520, type: 3}
